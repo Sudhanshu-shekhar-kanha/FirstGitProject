@@ -1,6 +1,0 @@
-[submodule "FirstGitProject"]
-	path = FirstGitProject
-	url = https://github.com/Sudhanshu-shekhar-kanha/FirstGitProject
-[submodule "ok"]
-	path = ok
-	url = https://github.com/Sudhanshu-shekhar-kanha/FirstGitProject/ok
